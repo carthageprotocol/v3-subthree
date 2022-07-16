@@ -22,7 +22,7 @@ export class StaticTokenDefinition {
 
     // Add WETH
     let tokenWETH = new StaticTokenDefinition(
-      Address.fromString('0x82af49447d8a07e3bd95bd0d56f35241523fbab1'),
+      Address.fromString('0xb750990F953B36F806d0327678eCFB4eEFd16979'),
       'WETH',
       'Wrapped Ethereum',
       BigInt.fromI32(18)
